@@ -23,3 +23,4 @@ Notes and usage details for vimprove.
 - add a note about the defaults
 - fix a small wording issue
 - add a note about the defaults
+- fix a small wording issue
